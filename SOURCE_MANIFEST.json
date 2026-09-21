@@ -1,0 +1,326 @@
+{
+  ".gitignore": {
+    "sha256": "fc3a7736973f9e0af96d6f6ab9216e03812fafa48a579502c55b0feb7439cf23",
+    "bytes": 250
+  },
+  "AGENTS.md": {
+    "sha256": "8fc161992c0a33d4db777dc9f1c65b832c9e21adf46924d4b5dc5f2e87cc9438",
+    "bytes": 821
+  },
+  "GETTING_STARTED.md": {
+    "sha256": "cf16f3fe2f4c030570ec9fbbb2a8bb6f50f3aecf710b7f370ea0b980439ac64a",
+    "bytes": 2252
+  },
+  "README.md": {
+    "sha256": "bf68b1d8abc0a6396cfb73a39885666595d1139c10ed3af10002ebf91c20b491",
+    "bytes": 2266
+  },
+  "SECURITY.md": {
+    "sha256": "05ffcb01c136eefe1bb00366f37bbcbe5e4adff6e7dbd16e3edd0eac8b1602de",
+    "bytes": 1262
+  },
+  "SHARING.md": {
+    "sha256": "a2e9dd5803b6e51115515461cc9264893c13e9645ac2def26f5610623a1d238f",
+    "bytes": 1457
+  },
+  "VERIFICATION.md": {
+    "sha256": "5379acd292bc144d69677cbdf4e1835d1927595979cdbf740b68057ebd75290d",
+    "bytes": 2598
+  },
+  "docs/PROJECT_SPEC.md": {
+    "sha256": "a15af40de2fd75c71d504c1d2d1f8423d170da1d9e446d1e65e8a644ded114a9",
+    "bytes": 1676
+  },
+  "examples/workbench.py": {
+    "sha256": "11358df759a35a034d077e1f1afc678eb5c70b621c72c1f0c4fdf0a44579bd26",
+    "bytes": 2118
+  },
+  "packages/market-data-kit/LICENSE": {
+    "sha256": "5ceadb5033b283ba19872953f6d7904542fb6a446946f7a1889f1da700100cde",
+    "bytes": 1080
+  },
+  "packages/market-data-kit/NOTICE.md": {
+    "sha256": "110ab300d0ce23b0aaca6022e021baa071f6fdef6c2f9acb7a95785b1bc46540",
+    "bytes": 614
+  },
+  "packages/market-data-kit/README.md": {
+    "sha256": "0c8ae3715d45bb5c9908ba8499cff0e84961946f943d7436796c696190242be8",
+    "bytes": 5960
+  },
+  "packages/market-data-kit/pyproject.toml": {
+    "sha256": "9f8984fa9250878d4d259b5403a4c5e8c31fe1e5d933fea01e9762561c0b819b",
+    "bytes": 955
+  },
+  "packages/market-data-kit/src/market_data_kit/__init__.py": {
+    "sha256": "01e326b55d2153ba3e37298f76540b8258338bf6fcc2663d8637193edbc35c56",
+    "bytes": 10002
+  },
+  "packages/market-data-kit/src/market_data_kit/cli.py": {
+    "sha256": "97cb2ca8b1be7e3f21eeccda49233d822e2255731c614ccbcd7c0fff94cb3b39",
+    "bytes": 1344
+  },
+  "packages/market-data-kit/src/market_data_kit/config.py": {
+    "sha256": "52d1662d39e4cbab0a52cfe674909fcaacc6ca0ee30ea5e4951fcf83c0360e3b",
+    "bytes": 1560
+  },
+  "packages/market-data-kit/src/market_data_kit/indicators/__init__.py": {
+    "sha256": "4d6ea545339a75e7b60f9d8ec4bffd575e4405bfff68b1677c0376b6761ad35c",
+    "bytes": 426
+  },
+  "packages/market-data-kit/src/market_data_kit/indicators/composite.py": {
+    "sha256": "710654729a92cb755d027660bb73b792002e1c4d5c87f31e423cb81cdd9d1f70",
+    "bytes": 1878
+  },
+  "packages/market-data-kit/src/market_data_kit/indicators/level.py": {
+    "sha256": "72fc3c7b4a08ba7c5f49c924539028bbdd9ad236bfedba35bc562f720f83d81e",
+    "bytes": 869
+  },
+  "packages/market-data-kit/src/market_data_kit/indicators/momentum.py": {
+    "sha256": "52670d8a14f679ad16dab31b53c0e621bbfbb421718d15bd72afebb9ca57b726",
+    "bytes": 1994
+  },
+  "packages/market-data-kit/src/market_data_kit/indicators/trend.py": {
+    "sha256": "5d51a211e657828bd97b07f6a452a8090038be98c1fb655c03968fb3f77b8501",
+    "bytes": 2443
+  },
+  "packages/market-data-kit/src/market_data_kit/indicators/volume.py": {
+    "sha256": "862db2ba361c24eb763b2ad5891001794a78b559ec5ce05d63ca6a99633f75c8",
+    "bytes": 718
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/__init__.py": {
+    "sha256": "8b8248b031f33f1def0f284f071f6e9a57f15ac2d4bbe97192209ac1af11ff51",
+    "bytes": 342
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/akshare_provider.py": {
+    "sha256": "99d84351ab7776f509fd8a86ecdc1b5d5d80e0dc0e2aca181b574cffae8f132b",
+    "bytes": 30169
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/base.py": {
+    "sha256": "ddfe4de3831932208a9d8a07781aaf5fa85d388d24b787217be391c7ae937794",
+    "bytes": 3242
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/china_macro_provider.py": {
+    "sha256": "a1fc0a1f925fcc2128a6ea37bfd3a233afcf90fb040a91598fb6108308c4e3f3",
+    "bytes": 10584
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/circuit_breaker.py": {
+    "sha256": "89f315a481b1dcdbda9a1a4dca65a2d3342ac5466fb080acca5882bb31848d3c",
+    "bytes": 2732
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/commodity_provider.py": {
+    "sha256": "a0d8e3c07814b8b5fded2690d412cb156046c351bc7077b7279e4b1b514bbc99",
+    "bytes": 2944
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/fred_provider.py": {
+    "sha256": "2038356235ed6cd39ed524d8cecac33c9af57179efb26489f0622f795db8fdb6",
+    "bytes": 6081
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/futu_provider.py": {
+    "sha256": "f62ddf3fdcd371359d273c26359e18096592fa169cb3e66f0778983468e1e8cd",
+    "bytes": 11873
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/proxy_cleanup.py": {
+    "sha256": "aea56fe045d41638b837628c3af2e23e8ab96dcdc610c82a8af72bb2b7969d6f",
+    "bytes": 231
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/push2.py": {
+    "sha256": "70ec180ba4d18c9f21891fbeecd158ea6c87c18f252fe86e68ef217c5d93335f",
+    "bytes": 10421
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/registry.py": {
+    "sha256": "0b365439fa2e6b6051c81b7ee8c273e3c981e5ec24c0eeb8f673e54040493aa8",
+    "bytes": 1470
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/stub.py": {
+    "sha256": "e6fce2c12d2885acbdf1a331b8e4922d0438fb7ac33437e2edc327ff976fd72d",
+    "bytes": 9221
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/tushare_provider.py": {
+    "sha256": "d2fcaebdc4cf5525f70b336a67fde80e03e9148edd5e74c21572057dc77cedaa",
+    "bytes": 4044
+  },
+  "packages/market-data-kit/src/market_data_kit/providers/yfinance_provider.py": {
+    "sha256": "3ab38b65e3739062febb8b510106fd531955c5d2486def98db8f321edb6de425",
+    "bytes": 14340
+  },
+  "packages/market-data-kit/src/market_data_kit/symbols.py": {
+    "sha256": "1136d60b420f7efc4e14fefb61b1897d9ad2457db2ae8c6373fe3a2d2f0c0a53",
+    "bytes": 10388
+  },
+  "packages/market-data-kit/src/market_data_kit/types.py": {
+    "sha256": "0ee5ad9f1a9e716a5e626c220954d2f14a1e13c811e2fd43250c39451e7f5617",
+    "bytes": 3461
+  },
+  "packages/market-data-kit/tests/conftest.py": {
+    "sha256": "59617e73e57fc01ca6c04614064096c13f0de07332be74637e9ac268c20a3a8f",
+    "bytes": 577
+  },
+  "packages/market-data-kit/tests/test_composite.py": {
+    "sha256": "332c50925582a4d085b472be7a21c45545e47e14a0b8eab2fda775645523542c",
+    "bytes": 2796
+  },
+  "packages/market-data-kit/tests/test_momentum.py": {
+    "sha256": "f6e60410f916083e976a14f94866236d222dc91f822072374557d0646e3431d2",
+    "bytes": 3608
+  },
+  "packages/market-data-kit/tests/test_provider_akshare.py": {
+    "sha256": "d28c5592683737c0ed31194d6db5d2582307810a0f4e38c9bf71622aadb3bd34",
+    "bytes": 22101
+  },
+  "packages/market-data-kit/tests/test_provider_china_macro.py": {
+    "sha256": "1db2cead8b01b215def9925b191f44c0688c2cb04615786cc62d08085fb0dac6",
+    "bytes": 9721
+  },
+  "packages/market-data-kit/tests/test_provider_commodity.py": {
+    "sha256": "4de8af87b1340b4ddd7c629419a105c7b0843ce98f4b63d7f596b47bf1bc2399",
+    "bytes": 2349
+  },
+  "packages/market-data-kit/tests/test_provider_fred.py": {
+    "sha256": "7ab3fa3da527b70785094536f64ee7b946243c0c0d90fa33c74043de1fed87b3",
+    "bytes": 12954
+  },
+  "packages/market-data-kit/tests/test_provider_push2.py": {
+    "sha256": "c1ce49bf2f8a9a0b2291ca1a7ac31953886e1ff4031d9b27ddd28dffce797866",
+    "bytes": 5300
+  },
+  "packages/market-data-kit/tests/test_provider_tushare.py": {
+    "sha256": "8b351f507f8ea232aef5a91bc35f2ed724d8ed0b9e47f33799006aae6cd62e42",
+    "bytes": 2886
+  },
+  "packages/market-data-kit/tests/test_provider_yfinance.py": {
+    "sha256": "47ad5116712cf0816511aac162487599743b484ca97b1dddeb618ab5d8e83a7f",
+    "bytes": 9776
+  },
+  "packages/market-data-kit/tests/test_share_contract.py": {
+    "sha256": "089e23689cd4d03b51a9c051d31f0b49b428443654d416242019e6f9edfca7b9",
+    "bytes": 10837
+  },
+  "packages/market-data-kit/tests/test_symbols.py": {
+    "sha256": "a57d092fda333485f4e3b1e54c06dd9112cf669db9fdc483883b838c52f72fad",
+    "bytes": 9785
+  },
+  "packages/market-data-kit/tests/test_trend.py": {
+    "sha256": "68b9f3fa8e7d3c4a82c6a4acb42ff9c59e679d35d8f3bcf6d03472a78f01dbf1",
+    "bytes": 4056
+  },
+  "packages/market-data-kit/tests/test_volume_level.py": {
+    "sha256": "35c6d70ca98ab6aa73cfcc28658df0ae7f0d2a4dd622addd7cc9a16b9dbd4866",
+    "bytes": 4106
+  },
+  "packages/news-data-kit/LICENSE": {
+    "sha256": "7894b7bb858971a11ae45757ec277abd60937193e58dbe12644e4777b585f33d",
+    "bytes": 1078
+  },
+  "packages/news-data-kit/NOTICE.md": {
+    "sha256": "110ab300d0ce23b0aaca6022e021baa071f6fdef6c2f9acb7a95785b1bc46540",
+    "bytes": 614
+  },
+  "packages/news-data-kit/README.md": {
+    "sha256": "2a2f5aee0e05fbdd550938c9ea7742bdcb89ba6179809d68344228a5c390671c",
+    "bytes": 3292
+  },
+  "packages/news-data-kit/pyproject.toml": {
+    "sha256": "8cb6c6d805db3876e7ef3a3850987126d9821b99c2251222ae53546eb7d1aead",
+    "bytes": 808
+  },
+  "packages/news-data-kit/src/news_data_kit/__init__.py": {
+    "sha256": "92de9175b78066cf6dd067ad187c5b9e8eab95f332ae256d6ccf2146cc000bb6",
+    "bytes": 7297
+  },
+  "packages/news-data-kit/src/news_data_kit/cache.py": {
+    "sha256": "adfc5858c2a1d4c9dd1470ac6a0e7af2714262449d64af49c8de3a6d5ad747e6",
+    "bytes": 1562
+  },
+  "packages/news-data-kit/src/news_data_kit/clean.py": {
+    "sha256": "ad6e54d66b610c1c84825edffed5cadda1332c8c17d723d3e3663cc5addc5e26",
+    "bytes": 1997
+  },
+  "packages/news-data-kit/src/news_data_kit/config.py": {
+    "sha256": "49af71fed7123e5a9ef0bea429e8791a09ff7255cc3ebf4892fbd3f1f376a33d",
+    "bytes": 1793
+  },
+  "packages/news-data-kit/src/news_data_kit/dedup.py": {
+    "sha256": "19bfa93c21f4cc7a7dbf4ae5fe3bb0da6da2c56c8fe2b413aa4431ff4db9c07e",
+    "bytes": 2185
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/__init__.py": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/akshare.py": {
+    "sha256": "27f3c224ee7bde43ab28f045eabe385275bbc3d7e223c75277bda44ebb6644d1",
+    "bytes": 7744
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/base.py": {
+    "sha256": "96ad24ca7e4e056a4e218cfe6149f156ab184154f2ac6c2a5d070b848a16a998",
+    "bytes": 1271
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/circuit_breaker.py": {
+    "sha256": "6ecc0e644c44ec5691db08497cda3aa800b0489e41215dbfc10f0e0794457dd6",
+    "bytes": 2440
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/finviz.py": {
+    "sha256": "29489398fd596a80d95e88223bfebdbbb815a9121f7c16bc71b9796ce6e9dc1f",
+    "bytes": 6562
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/rss.py": {
+    "sha256": "07287de49e726946447aaa801307e80d5a6cde4e809baf702853c1ebeb342262",
+    "bytes": 4060
+  },
+  "packages/news-data-kit/src/news_data_kit/providers/yfinance.py": {
+    "sha256": "86c523da0647dedadbe4c3603b34058f746b275a8eba85c5ec4c344e333ac3b0",
+    "bytes": 4671
+  },
+  "packages/news-data-kit/src/news_data_kit/resources/feeds.json": {
+    "sha256": "291adc5eb6b5bd209636d5cdadef34aebf88ac26a0055ec3a5aeacb07a25c669",
+    "bytes": 267
+  },
+  "packages/news-data-kit/src/news_data_kit/store/__init__.py": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "packages/news-data-kit/src/news_data_kit/store/engine.py": {
+    "sha256": "dc31ed29beb63d6995e1d1fa592493e22160135b6bfc850ce61a8888d05e48da",
+    "bytes": 7367
+  },
+  "packages/news-data-kit/src/news_data_kit/store/queries.py": {
+    "sha256": "6720480df463ca4d7dcf54fe6769140009504dc6ba20ceef6609fb1394e138c9",
+    "bytes": 3124
+  },
+  "packages/news-data-kit/src/news_data_kit/tagger.py": {
+    "sha256": "76d93d4017c1c2cb0963ef8f5d96fc05ff02925c63f27e600adcf2a0c0db41ca",
+    "bytes": 31863
+  },
+  "packages/news-data-kit/src/news_data_kit/types.py": {
+    "sha256": "ab6a5f5a177bb922131a7639e6ffc5016329a9809b1f0844670e6548f8c62b28",
+    "bytes": 1899
+  },
+  "packages/news-data-kit/tests/conftest.py": {
+    "sha256": "6a0044bd72d2f8389ddb32b99e99850cb77b678df85a092eab4539f0d03f17b8",
+    "bytes": 576
+  },
+  "packages/news-data-kit/tests/test_clean.py": {
+    "sha256": "d4f6154568932eb1932398e87714d0c2e7fd81db17c4f500d4a407e35020116b",
+    "bytes": 1409
+  },
+  "packages/news-data-kit/tests/test_dedup.py": {
+    "sha256": "968597b17d237703d9e5f7237ffb68c20ffdf44d1ca7fc96fd6a3dea1883371c",
+    "bytes": 2546
+  },
+  "packages/news-data-kit/tests/test_share_contract.py": {
+    "sha256": "8abc8d3f2038a1ff80aff2d4747da48a12aace77cb4f9d06bd0c2be13acff657",
+    "bytes": 5667
+  },
+  "packages/news-data-kit/tests/test_store.py": {
+    "sha256": "03b2f1be3a15e59d79d74ff5eda419a882adef55cbc77768032cf7531f46a664",
+    "bytes": 4531
+  },
+  "packages/news-data-kit/tests/test_tagger.py": {
+    "sha256": "5bf588bfb557750779682f4ece1cf2784d66a81d36f92bc27ef4cef46b538110",
+    "bytes": 20213
+  },
+  "packages/news-data-kit/tests/test_types.py": {
+    "sha256": "d9af53206087f67b442eb5ca76a9db2cc07787036b0b55245072f6c9abd6a6a1",
+    "bytes": 632
+  }
+}

@@ -1,0 +1,4 @@
+[
+  {"url": "https://feeds.bbci.co.uk/news/business/rss.xml", "name": "BBC Business", "language": "en", "markets": ["US", "HK", "CN"]},
+  {"url": "https://www.info.gov.hk/gia/rss/general_tc.xml", "name": "Hong Kong Government", "language": "zh", "markets": ["HK"]}
+]

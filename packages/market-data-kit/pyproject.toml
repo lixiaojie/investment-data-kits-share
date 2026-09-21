@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "market-data-kit"
+version = "0.5.2+share.1"
+description = "Public-provider market data for personal investment workbenches"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["pandas>=2.0,<4", "pyarrow>=14,<26"]
+
+[project.optional-dependencies]
+yfinance = ["yfinance>=0.2,<2"]
+akshare = ["akshare>=1.18,<2"]
+futu = ["futu-api>=9,<11"]
+tushare = ["tushare>=1.4,<2"]
+dev = ["pytest>=8,<10", "build>=1", "hatchling>=1.26"]
+
+[project.scripts]
+mdk = "market_data_kit.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/market_data_kit"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/", "tests/", "README.md", "LICENSE", "NOTICE.md", "pyproject.toml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+markers = ["live: optional real provider checks (excluded by default)"]
+addopts = "-m 'not live'"
