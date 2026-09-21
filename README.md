@@ -1,7 +1,7 @@
 # Investment Data Kits — 分享版
 
 面向个人投资工作台的 Python 数据工具，提供行情、技术指标和可选新闻采集。
-本仓库是独立试用版；数据在使用者自己的设备上获取，账号与数据权限由使用者提供。
+本仓库是采用 MIT 许可公开的独立试用版；数据在使用者自己的设备上获取，账号与数据权限由使用者提供。
 
 | 包 | 能力 | 本版优先验证范围 |
 | --- | --- | --- |
@@ -38,8 +38,8 @@ Releases 提供包含 wheel、源码和校验和的完整试用包；仓库克�
 
 分享包不含真实账号、内网适配器、个人环境、历史数据或原项目 Git 历史。
 参见 [配置与安全边界](SECURITY.md)、[数据与代码许可边界](SHARING.md)。
-代码许可分别见 [MDK LICENSE](packages/market-data-kit/LICENSE) 和
+代码采用 [MIT 许可](LICENSE)，包内声明分别见 [MDK LICENSE](packages/market-data-kit/LICENSE) 和
 [NDK LICENSE](packages/news-data-kit/LICENSE)。
 
-仓库当前用于受邀试用，不承诺长期维护周期或服务等级；使用中遇到问题请附最小合成示例，
+仓库可公开浏览、克隆和下载，不承诺长期维护周期或服务等级；使用中遇到问题请附最小合成示例，
 不要提交真实账户、完整环境变量或私人运行日志。

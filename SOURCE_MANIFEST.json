@@ -11,25 +11,29 @@
     "sha256": "cf16f3fe2f4c030570ec9fbbb2a8bb6f50f3aecf710b7f370ea0b980439ac64a",
     "bytes": 2252
   },
+  "LICENSE": {
+    "sha256": "6e3fe79893ba57f5ac63f64ebc67da0651aac91968519f7cc39fc14d09af3b3a",
+    "bytes": 1121
+  },
   "README.md": {
-    "sha256": "bf68b1d8abc0a6396cfb73a39885666595d1139c10ed3af10002ebf91c20b491",
-    "bytes": 2266
+    "sha256": "87375a72f286cfe881e1e0e6792319a3b4e959aeb0dd932f46b887193d85ee6b",
+    "bytes": 2338
   },
   "SECURITY.md": {
     "sha256": "05ffcb01c136eefe1bb00366f37bbcbe5e4adff6e7dbd16e3edd0eac8b1602de",
     "bytes": 1262
   },
   "SHARING.md": {
-    "sha256": "a2e9dd5803b6e51115515461cc9264893c13e9645ac2def26f5610623a1d238f",
-    "bytes": 1457
+    "sha256": "dc9f5be5ceab92c0e4880e982d5902ad7a927547da8247b0487df2a9637cb885",
+    "bytes": 1460
   },
   "VERIFICATION.md": {
-    "sha256": "5379acd292bc144d69677cbdf4e1835d1927595979cdbf740b68057ebd75290d",
-    "bytes": 2598
+    "sha256": "7f2678242a11a25a87fbdf005e26bcc68ae46b9a175d656f36378bad9fe2b68b",
+    "bytes": 2650
   },
   "docs/PROJECT_SPEC.md": {
-    "sha256": "a15af40de2fd75c71d504c1d2d1f8423d170da1d9e446d1e65e8a644ded114a9",
-    "bytes": 1676
+    "sha256": "c154176e37e0e5f1153a6a1f641386620bc0b18bc198a17505eca1ef6e0a8b4b",
+    "bytes": 1822
   },
   "examples/workbench.py": {
     "sha256": "11358df759a35a034d077e1f1afc678eb5c70b621c72c1f0c4fdf0a44579bd26",
